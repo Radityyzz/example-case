@@ -12,10 +12,10 @@ global.APIKeys = {
 
 global.namabot = "GilzzXD"
 global.namaowner = "Raditya"
-global.packname = GilzzyXD
-global.author = Raditya
+global.packname = "GilzzyXD"
+global.author = "Raditya"
 global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + GilzzyXD
+global.footer_text = "© Gilzz" 
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['6285745149901']
